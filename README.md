@@ -8,4 +8,4 @@ leetcode problems
  - [1027](https://leetcode.com/problems/longest-arithmetic-sequence/)
  - [1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
  - [1024](https://leetcode.com/problems/video-stitching/)
-
+ - [1019](https://leetcode.com/problems/next-greater-node-in-linked-list/)
